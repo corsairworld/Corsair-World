@@ -1,4 +1,4 @@
-# [Corsair Cash](https://corsair.cash)
+# [Corsair World](https://corsair.world)
 dapp: https://corsair.world
 
 #### Corsair.cash Contracts
